@@ -23,7 +23,8 @@
     "rules": {
         "prettier/prettier": "error",
         "react/jsx-filename-extension": "off",
-        "no-unused-vars": "warn"
+        "no-unused-vars": "warn",
+        "global-require": "off"
     },
     "parser": "babel-eslint"
 }
