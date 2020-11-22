@@ -1,7 +1,12 @@
 import React from 'react';
+import Taskbar from './Components/Taskbar';
 
 function App() {
-  return <div className="App">Hoggins</div>;
+  return (
+    <div className="view">
+      <Taskbar />
+    </div>
+  );
 }
 
 export default App;

@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.view {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(45deg, rgba(28, 21, 139, 1) 15%, rgba(0, 212, 255, 1) 100%);
+}
